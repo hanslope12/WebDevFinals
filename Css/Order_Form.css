@@ -1,0 +1,29 @@
+.split{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.Confirm{
+    position: sticky;
+    top:0;
+    width: 45%;
+}
+#cart{
+    width: 45%;
+    overflow-wrap: normal;
+    object-fit: contain;
+}
+
+.item-img{
+    width:10vw;
+}
+.item-name{
+    width: 20vw;
+    margin-left: 2vw;
+}
+.items{
+display:flex;
+flex-direction: row;
+margin-top: 10px;
+margin-bottom:5px ;
+}

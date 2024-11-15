@@ -1,0 +1,12 @@
+.split{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+#user{
+    width: 45%;
+}
+#cart{
+    width: 45%;
+    overflow-wrap: normal;
+}
